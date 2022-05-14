@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Helvetica, sans-serif;
+}
+
+#image {
+    height: 400px;
+    width: auto;
+    float: left;
+}
+
+.title {
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    margin: 5px;
+}
+
+.description {
+    float: left;
+}
+
+.ingredients {
+    clear: left;
+}

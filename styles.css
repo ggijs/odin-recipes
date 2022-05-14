@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: square;
+    text-align: center;
+    list-style: inside;
+    background-color: aliceblue;
+}
+
+li {
+    margin: 5px;
+    padding-left: 0px;
+}
+
+#title {
+    text-align: center;
+    background-color: antiquewhite;
+}
